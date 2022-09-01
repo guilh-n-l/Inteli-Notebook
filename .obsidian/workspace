@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/Linear Systems.md",
+            "file": "Physics/Cinematics.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Systems.md",
+                "file": "Physics/Cinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Systems.md",
+                "file": "Physics/Cinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Systems.md"
+                "file": "Physics/Cinematics.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "0db6c539544eb554",
   "lastOpenFiles": [
+    "Orientation/Agile.md",
     "Math/Vectors.md",
     "Math/Linear Systems.md",
     "Math/Limits & Continuity.md",
+    "Leadership/Projects.md",
+    "Business/Gamer Profile.md",
+    "Physics/Cinematics.md",
     "User Experience/Design thinking.md",
     "Programming/Coding Dictionary.md",
-    "Leadership/Projects.md",
-    "Programming/Code Improvement - DEBUG.md",
-    "Orientation/Agile.md",
-    "User Experience/Users.md",
-    "Programming/Data Structures.md"
+    "Programming/Code Improvement - DEBUG.md"
   ]
 }

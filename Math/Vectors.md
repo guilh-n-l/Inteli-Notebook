@@ -12,8 +12,7 @@ r_x \\ r_y \\ r_z
 +
 \begin{bmatrix}
 s_x \\ s_y \\ s_z
-\end{bmatrix}
-}
+\end{bmatrix}}
 $$
 # Multiplicação
 ## Por número
@@ -35,9 +34,7 @@ r_x \\ r_y \\ r_z
 ×
 \begin{bmatrix}
 s_x & s_y & s_z
-\end{bmatrix}
-
-}
+\end{bmatrix}}
 $$
 ## Produto vetorial
 O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua extremidade em relação ao outro vetor ou pelo determinante das componentes de ambos os vetores. O valor encontrado é um vetor com sentido e direção determinados pela regra da mão direita;

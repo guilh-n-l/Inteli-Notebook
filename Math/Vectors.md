@@ -4,9 +4,17 @@ O módulo pode ser encontrado utilizando a lei dos cossenos ou por soma de matri
 <p align="center">
   <img width=80% src="https://imgur.com/6SIbah5.png">
 </p>
-<p align="center">
-  <img width=80% src="https://i.imgur.com/VMSN0G9.png">
-</p>
+$$
+\Huge{
+\begin{bmatrix}
+r_x \\ r_y \\ r_z
+\end{bmatrix}
++
+\begin{bmatrix}
+s_x \\ s_y \\ s_z
+\end{bmatrix}
+}
+$$
 # Multiplicação
 ## Por número
 O módulo pode ser encontrado multiplicando o módulo do vetor pelo fator multiplicativo. Já o sentido é encontrados de acordo com o sinal fator multiplicativo( + -> Conserva / - -> Inverte);
@@ -19,15 +27,31 @@ O módulo pode ser encontrado multiplicando o módulo do vetor pelo módulo da s
 <p align="center">
   <img width=80% src="https://i.imgur.com/GGkRL1R.png">
 </p>
-<p align="center">
-  <img width=80% src="https://i.imgur.com/nkcyo3P.png">
-</p>
+$$
+\Huge{
+\begin{bmatrix}
+r_x \\ r_y \\ r_z
+\end{bmatrix}
+×
+\begin{bmatrix}
+s_x & s_y & s_z
+\end{bmatrix}
+
+}
+$$
 ## Produto vetorial
 O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua extremidade em relação ao outro vetor ou pelo determinante das componentes de ambos os vetores. O valor encontrado é um vetor com sentido e direção determinados pela regra da mão direita;
-
 <p align="center">
   <img width=80% src="https://i.imgur.com/cAEsrxf.png">
 </p>
-<p align="center">
-  <img width=80% src="https://i.imgur.com/sLy899K.png">
-</p>
+$$
+\left|
+\Huge{
+\begin{vmatrix}
+i & j & k \\
+r_x & r_y & r_z \\
+s_x & s_y & s_z
+\end{vmatrix}
+}
+\right|
+$$

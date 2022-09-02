@@ -42,7 +42,6 @@ O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua e
   <img width=80% src="https://i.imgur.com/cAEsrxf.png">
 </p>
 $$
-\left|
 \Huge{
 \begin{vmatrix}
 i & j & k \\
@@ -50,5 +49,4 @@ r_x & r_y & r_z \\
 s_x & s_y & s_z
 \end{vmatrix}
 }
-\right|
 $$

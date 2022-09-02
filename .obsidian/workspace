@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Cinematics.md",
+            "file": "Physics/Dynamics.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Cinematics.md",
+                "file": "Physics/Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Cinematics.md",
+                "file": "Physics/Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Cinematics.md"
+                "file": "Physics/Dynamics.md"
               }
             }
           }
@@ -130,13 +130,13 @@
   },
   "active": "0db6c539544eb554",
   "lastOpenFiles": [
+    "Physics/Cinematics.md",
     "Orientation/Agile.md",
     "Math/Vectors.md",
     "Math/Linear Systems.md",
     "Math/Limits & Continuity.md",
     "Leadership/Projects.md",
     "Business/Gamer Profile.md",
-    "Physics/Cinematics.md",
     "User Experience/Design thinking.md",
     "Programming/Coding Dictionary.md",
     "Programming/Code Improvement - DEBUG.md"

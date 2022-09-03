@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Work & Energy.md",
+            "file": "Math/Limits & Continuity.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Work & Energy.md",
+                "file": "Math/Limits & Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Work & Energy.md",
+                "file": "Math/Limits & Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Work & Energy.md"
+                "file": "Math/Limits & Continuity.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8a42a0a82917d76e",
   "lastOpenFiles": [
+    "Math/Vectors.md",
+    "Math/Limits & Continuity.md",
     "Physics/Dynamics.md",
+    "README.md",
+    "Math/Linear Systems.md",
+    "Physics/Work & Energy.md",
     "User Experience/Users.md",
     "User Experience/Level Design.md",
     "User Experience/Design thinking.md",
-    "README.md",
-    "Programming/Boolean Logic.md",
-    "Physics/Work & Energy.md",
-    "Physics/Cinematics.md",
-    "Math/Vectors.md",
-    "Math/Linear Systems.md"
+    "Programming/Boolean Logic.md"
   ]
 }

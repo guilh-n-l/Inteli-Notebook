@@ -12,9 +12,11 @@
 # User Stories
 > Requisitos breves solicitados pelo cliente para atender os seus objetivos;
 
-                            | Beneficiado  |    ...    |
-                            | O que deseja |    ...    |
-                            | Pra que      |    ...    |
+| Fator      | Descrição |
+| ----------- | ----------- |
+| Beneficiado      |        |
+| O que deseja   |         |
+| Pra que   |         |
 
 > OBS.: Uma história maior pode ser dividida em histórias menores (splitting);
 

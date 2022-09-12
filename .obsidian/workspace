@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Delivery Management.md",
+            "file": "Turing Machine.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Delivery Management.md",
+                "file": "Turing Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Delivery Management.md",
+                "file": "Turing Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Delivery Management.md"
+                "file": "Turing Machine.md"
               }
             }
           }
@@ -130,15 +131,15 @@
   },
   "active": "8a42a0a82917d76e",
   "lastOpenFiles": [
-    "Orientation/Agile.md",
-    "Programming/Delivery Management.md",
-    "User Experience/Users.md",
-    "User Experience/Level Design.md",
-    "Business/Project Management Tools.md",
     "Business/Gamer Profile.md",
-    "Pasted image 20220905142947.png",
-    "Leadership/Projects.md",
     "Math/Limits & Continuity.md",
-    "Math/Linear Systems.md"
+    "Leadership/Projects.md",
+    "Business/Project Management Tools.md",
+    "Physics/Cinematics.md",
+    "Physics/Dynamics.md",
+    "Physics/Work & Energy.md",
+    "Programming/Boolean Logic.md",
+    "Programming/Code Improvement - DEBUG.md",
+    "Programming/Coding Dictionary.md"
   ]
 }

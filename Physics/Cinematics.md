@@ -22,9 +22,8 @@ v_i = \lim_{\Delta t \to 0}v_m
 $$
 - Velocidade média ($\vec{v}_m$): A rapidez com que um corpo se desloca no espaço durante um certo intervalo de tempo;
 $$
-\large{
-
-v_m = \frac{\Delta x}{\Delta t}}
+\large
+v_m = \frac{\Delta x}{\Delta t}
 $$
 ## Aceleração
 - Aceleração instantânea ($\vec{a}_i$): A aceleração de um corpo em um instante **i**;
@@ -35,7 +34,6 @@ a_i = \lim_{\Delta t \to 0}a_m
 $$
 - Aceleração média ($\vec{a}_m$): A rapidez com que um corpo muda a sua velocidade durante um certo intervalo de tempo;
 $$
-\large{
-
-a_m = \frac{\Delta v}{\Delta t}}
+\large
+a_m = \frac{\Delta v}{\Delta t}
 $$

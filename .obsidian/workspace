@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Turing Machine.md",
+            "file": "Leadership/Smart Method.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turing Machine.md",
+                "file": "Leadership/Smart Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turing Machine.md",
+                "file": "Leadership/Smart Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turing Machine.md"
+                "file": "Leadership/Smart Method.md"
               }
             }
           }
@@ -131,15 +130,15 @@
   },
   "active": "8a42a0a82917d76e",
   "lastOpenFiles": [
-    "Business/Gamer Profile.md",
-    "Math/Limits & Continuity.md",
     "Leadership/Projects.md",
+    "Leadership/Smart Method.md",
+    "Math/Limits & Continuity.md",
+    "Business/Gamer Profile.md",
     "Business/Project Management Tools.md",
     "Physics/Cinematics.md",
     "Physics/Dynamics.md",
     "Physics/Work & Energy.md",
     "Programming/Boolean Logic.md",
-    "Programming/Code Improvement - DEBUG.md",
-    "Programming/Coding Dictionary.md"
+    "Programming/Code Improvement - DEBUG.md"
   ]
 }

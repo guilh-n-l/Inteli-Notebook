@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "9039a89a4c950e3d",
+    "id": "53c68acbb1e0938c",
     "type": "split",
     "children": [
       {
-        "id": "8a42a0a82917d76e",
+        "id": "421cf8787a3ba71b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Programming/Object Oriented Programming.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e26956aa085886be",
+    "id": "2e60823e63d694f8",
     "type": "split",
     "children": [
       {
-        "id": "f8c988e39b2d6a2f",
+        "id": "f34f8d453e649a45",
         "type": "tabs",
         "children": [
           {
-            "id": "0db6c539544eb554",
+            "id": "e5482a2f3b5a933b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "bdd240d1ce64fce0",
+            "id": "d66b475314069ffb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Ex.",
+                "query": "obs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "4a45ff4536cff756",
+            "id": "d2ec9d1ecd97ac3b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,15 +65,15 @@
     "width": 300
   },
   "right": {
-    "id": "253fe21eb3b2f57f",
+    "id": "2275b9ac085853dc",
     "type": "split",
     "children": [
       {
-        "id": "b8fd1b4d5794d0de",
+        "id": "f40bb301374a4425",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9eefa6521e3625",
+            "id": "11fec6abb47c34ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "a66067281318d99c",
+            "id": "0fd647b5ef359e19",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "e5ee6ad1d23b1324",
+            "id": "38200184c8414754",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "4bf93e7fff5c78c6",
+            "id": "f9fea69bdaefc694",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,17 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdd240d1ce64fce0",
+  "active": "421cf8787a3ba71b",
   "lastOpenFiles": [
-    "Programming/Coding Dictionary.md",
+    "Programming/Data Structures.md",
     "Programming/Object Oriented Programming.md",
-    "Leadership/Learn Efficiently.md",
-    "Leadership/Smart Method.md",
-    "Leadership/Projects.md",
-    "Math/Limits & Continuity.md",
-    "Business/Gamer Profile.md",
-    "Business/Project Management Tools.md",
-    "Physics/Cinematics.md",
-    "Physics/Dynamics.md"
+    "Programming/Delivery Management.md",
+    "Programming/Godot Cheat Sheet.md",
+    "Math/Vectors.md",
+    "Math/Linear Systems.md",
+    "Math/Limits & Continuity.md"
   ]
 }

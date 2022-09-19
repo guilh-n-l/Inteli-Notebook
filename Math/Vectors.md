@@ -5,14 +5,18 @@ O módulo pode ser encontrado utilizando a lei dos cossenos ou por soma de matri
   <img width=80% src="https://imgur.com/6SIbah5.png">
 </p>
 $$
-\Huge{
-\begin{bmatrix}
-r_x \\ r_y \\ r_z
-\end{bmatrix}
+\Huge
+\left[ \begin{matrix}
+r_x \\
+r_y \\
+r_z
+\end{matrix} \right]
 +
-\begin{bmatrix}
-s_x \\ s_y \\ s_z
-\end{bmatrix}}
+\left[ \begin{matrix}
+s_x \\
+s_y \\
+s_z
+\end{matrix} \right]
 $$
 # Multiplicação
 ## Por número
@@ -27,14 +31,14 @@ O módulo pode ser encontrado multiplicando o módulo do vetor pelo módulo da s
   <img width=80% src="https://i.imgur.com/GGkRL1R.png">
 </p>
 $$
-\Huge{
+\Huge
 \begin{bmatrix}
 r_x \\ r_y \\ r_z
 \end{bmatrix}
 ×
 \begin{bmatrix}
 s_x & s_y & s_z
-\end{bmatrix}}
+\end{bmatrix}
 $$
 ## Produto vetorial
 O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua extremidade em relação ao outro vetor ou pelo determinante das componentes de ambos os vetores. O valor encontrado é um vetor com sentido e direção determinados pela regra da mão direita;
@@ -42,11 +46,10 @@ O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua e
   <img width=80% src="https://i.imgur.com/cAEsrxf.png">
 </p>
 $$
-\Huge{
+\Huge
 \begin{vmatrix}
 i & j & k \\
 r_x & r_y & r_z \\
 s_x & s_y & s_z
 \end{vmatrix}
-}
 $$

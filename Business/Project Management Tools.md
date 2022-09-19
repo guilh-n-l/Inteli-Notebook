@@ -11,7 +11,7 @@
 <p align="center">
   <img width=60% src="https://i.imgur.com/bMR1cKA.png">
 </p>
-| Probabilidade      | Descrição |
+| Probabilidade | Descrição |
 | ----------- | ----------- |
 | 1 - 10 % - Muito Baixa    | Não é provável que aconteça       |
 | 11 - 30 % - Baixa | Pode ser que ocorra uma vez dentro de um ano        |

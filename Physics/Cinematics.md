@@ -8,18 +8,20 @@ $$
 - Deslocamento ($\Delta \vec{x}$): Variação da posição de um corpo durante um certo intervalo de tempo;
 ## Velocidade
 - Velocidade instantânea ($\vec{v}_i$): A velocidade de um corpo em um instante **i**;
+
 $$
-\large{
+\large
 v_i = v_0 + a×t = \frac{dx}{dt}
-\mbox{ or }
+\textrm{ or }
 v_i^2 = v_0^2 + 2a×\Delta x
-}
 $$
+
 $$
 \large{
 v_i = \lim_{\Delta t \to 0}v_m
 }
 $$
+
 - Velocidade média ($\vec{v}_m$): A rapidez com que um corpo se desloca no espaço durante um certo intervalo de tempo;
 $$
 \large

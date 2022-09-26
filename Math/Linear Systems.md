@@ -12,7 +12,7 @@ $$
 x_1 + x_2 + x_3 = 3 \\
 -2x_1 - x_2 + 4x_3 = 1
 \end{matrix}
-\mbox{  and  }
+\textrm{  and  }
 \begin{matrix}
 -2x_1 - x_2 + 4x_3 = 1 \\
 2x_1 + 2x_2 + 2x_3 = 6
@@ -29,7 +29,7 @@ $$
 x_1 + x_2 + x_3 = 3 \\
 -2x_1 - x_2 + 4x_3 = 1
 \end{matrix}
-\mbox{Sistema não triangular}}
+\textrm{Sistema não triangular}}
 $$
 $$
 \large{
@@ -38,7 +38,7 @@ $$
 2x_2 + 2x_3 = 6 \\
 5x_3 = 13
 \end{matrix}
-\mbox{Sistema estritamente triangular}}
+\textrm{Sistema estritamente triangular}}
 $$
 > OBS.: Para escalonar um sistema, é necessário utilizar as técnicas de criação de sistemas equivalentes;
 

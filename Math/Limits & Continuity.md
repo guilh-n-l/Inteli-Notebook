@@ -17,6 +17,7 @@ Ex.: Na função abaixo($f(x) = \frac{1}{x}$), na medida em que $x$ se aproxima 
   <img width=80% src="https://i.imgur.com/IgeFyLC.png">
   <figcaption><p align="center"></figcaption>
 </p>
+
 ## Limites laterais
 > Limites laterais são utilizados para explicitar um limite divergente
 

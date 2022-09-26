@@ -10,7 +10,7 @@ Ex.:
 $$
 \begin{aligned}
 &f = x^2 \\
-&\mbox{ Find the tangent line of } p(2, f(2)) = g(x) \\
+&\textrm{ Find the tangent line of } p(2, f(2)) = g(x) \\
 & \frac{df}{d2} = 4 \implies g(x) = 4x + b \\
 & g(2)=4 \implies b = -4 \implies g(x) = 4x -4
 \end{aligned}
@@ -18,11 +18,11 @@ $$
 ## Regras especiais de derivação
 $$
 \begin{aligned}
-& \mbox{Regra do tombo: }f' =\sum_{i=0}^ni×a_i×x^{n-1} \\
-& \mbox{Regra da cadeia; }\frac{df}{dx} = \frac{df}{du} × \frac{du}{dx} \\
-& \mbox{Derivada da soma: }(f+g)(x)' = f(x)' + g(x)' \\
-& \mbox{Derivada do produto: }(f×g)(x)' = f'(x)×g(x) + f(x)×g'(x) \\
-& \mbox{Derivada do Exponencial: }\frac{d(e^x)}{dx} = e^x
+& \textrm{Regra do tombo: }f' =\sum_{i=0}^ni×a_i×x^{n-1} \\
+& \textrm{Regra da cadeia: }\frac{df}{dx} = \frac{df}{du} × \frac{du}{dx} \\
+& \textrm{Derivada da soma: }(f+g)(x)' = f(x)' + g(x)' \\
+& \textrm{Derivada do produto: }(f×g)(x)' = f'(x)×g(x) + f(x)×g'(x) \\
+& \textrm{Derivada do Exponencial: }\frac{d(e^x)}{dx} = e^x
 \end{aligned}
 $$
 

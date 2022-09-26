@@ -21,7 +21,7 @@ $$
 
 # Parábola
 $$
-P_1: (x-x_0)^2-2p(y-y_0) = 0 \mbox{ or } P_2: -2p(x-x_0) + (y-y_0)^2 =0
+P_1: (x-x_0)^2-2p(y-y_0) = 0 \textrm{ or } P_2: -2p(x-x_0) + (y-y_0)^2 =0
 $$
 > $(x_0;y_0) \to$ Vértice da parábola;
 > $p \to$ Distância da diretriz até o foco da parábola;

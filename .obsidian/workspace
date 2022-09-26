@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Orientation/Agile.md",
+            "file": "Programming/Structured Programming.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scrum master",
+                "query": "o que ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orientation/Agile.md",
+                "file": "Programming/Structured Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orientation/Agile.md",
+                "file": "Programming/Structured Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orientation/Agile.md"
+                "file": "Programming/Structured Programming.md"
               }
             }
           }
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d66b475314069ffb",
+  "active": "e5482a2f3b5a933b",
   "lastOpenFiles": [
-    "Math/Derivatives.md",
-    "Math/Limits & Continuity.md",
-    "Math/Conics.md",
-    "User Experience/Design Thinking.md",
-    "Physics/Cinematics.md",
+    "Programming/Turing Machine.md",
+    "Programming/System Architectures.md",
+    "Programming/Python Cheat Sheet.md",
     "Programming/Object Oriented Programming.md",
-    "Math/Vectors.md",
-    "Business/Game Development.md",
-    "Business/Game Monetization.md",
-    "Business/Gamer Profile.md"
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Delivery Management.md",
+    "Programming/Data Structures.md",
+    "Programming/Code Improvement - DEBUG.md",
+    "Programming/Boolean Logic.md",
+    "Orientation/Agile.md"
   ]
 }

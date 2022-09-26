@@ -1,6 +1,6 @@
 # Classes & Objetos
-- Classe: Agrupemento de objetos de mesma natureza, ainda que eles possuam características diferentes;
-- Objeto: Agrupemento de objetos de mesma natureza, ainda que eles possuam características diferentes;
+- Classe: Agrupamento de objetos (molde) de mesma natureza, ainda que eles possuam características diferentes;
+- Objeto: Entidades de ocorrência específica de uma classe. Tem características próprias provenientes de classe que o originou;
 
 > OBS.: A criação de um objeto a partir de uma classe é chamada de instanciação de classe;
 
@@ -13,6 +13,9 @@ Corrola = Carro()
 # Conceitos importantes
 - **Métodos** são as ações que um objeto pode realizar;
 - **Atributos** são propriedades de um objeto;
+ - Estáticos: Carregam o mesmo valor durante toda a sua existência;
+ - Dinâmicos: Seus valores podem variar com o passar do tempo;
+- **Mensagens** são a forma como os objetos se comunicam entre si se estiverem ligados por alguma associação
 - Métodos e atributos são **públicos** quando são visíveis fora de um objeto. Caso o contrário, eles seram chamados de **privados**;
 
 # Propriedades da POO
@@ -28,3 +31,14 @@ Corrola = Carro()
 </p>
 - Polimorfismo: Um método é considerado polimorfismo quando pode ser implementado de uma forma diferente em diferentes classes ou em diferentes objetos;
 - Design patterns: Formas de resolver problemas comuns em linguagens orientadas a objetos;
+
+# Criando uma classe
+```Python
+class Dog:
+def __init__(self, dogBreed, dogEyeColor, dogMood):
+	self.breed = dogBreed
+	self.eyeColor = dogEyeColor
+	self.mood = dogMood
+Scoot = Dog("Cavalier King Charles", "Brown", "Sleepy")
+```
+- `__init__` é o método construtor que define os atributos presentes em todos os objetos da classe. Ele sempre começa com o `self` que junta os atributos dos objetos aos argumentos recebidos;

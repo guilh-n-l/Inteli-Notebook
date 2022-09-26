@@ -29,4 +29,8 @@ Ex.: $\lim_{x \to 0^-}{\frac{1}{x}} = +\infty$ == O limite de $\frac{1}{x}$ pela
 1. Suponha a existência de 3 funções: $f(x), g(x), h(x)$
 2. Considere $f(x)\leq g(x)\leq h(x)$
 3. Se $lim_{x \to p}{f(x)} = lim_{x \to p}{h(x)} = L \implies lim_{x \to p}{g(x)} = L$
+
+# Propriedades de limite
+- $\lim_{x \to a}{b} = b$; Considerando que a e b são constantes;
+- 
   

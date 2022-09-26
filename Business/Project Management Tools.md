@@ -2,7 +2,7 @@
 > Ferramenta analítica que tem como objetivo medir o potencial de um projeto ou auxiliar na direção de um negócio já existente;
 
 <p align="center">
-  <img width=70% src="https://i.imgur.com/LbwQZDB.png">
+<img width=70% src="https://i.imgur.com/LbwQZDB.png">
 </p>
 
 # Matriz de riscos
@@ -11,6 +11,7 @@
 <p align="center">
   <img width=60% src="https://i.imgur.com/bMR1cKA.png">
 </p>
+
 | Probabilidade | Descrição |
 | ----------- | ----------- |
 | 1 - 10 % - Muito Baixa    | Não é provável que aconteça       |

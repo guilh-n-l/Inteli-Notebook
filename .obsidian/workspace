@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Object Oriented Programming.md",
-            "mode": "preview",
+            "file": "Orientation/Agile.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obs",
+                "query": "scrum master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Object Oriented Programming.md",
+                "file": "Orientation/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Object Oriented Programming.md",
+                "file": "Orientation/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Object Oriented Programming.md"
+                "file": "Orientation/Agile.md"
               }
             }
           }
@@ -129,14 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "421cf8787a3ba71b",
+  "active": "d66b475314069ffb",
   "lastOpenFiles": [
-    "Programming/Data Structures.md",
+    "Math/Derivatives.md",
+    "Math/Limits & Continuity.md",
+    "Math/Conics.md",
+    "User Experience/Design Thinking.md",
+    "Physics/Cinematics.md",
     "Programming/Object Oriented Programming.md",
-    "Programming/Delivery Management.md",
-    "Programming/Godot Cheat Sheet.md",
     "Math/Vectors.md",
-    "Math/Linear Systems.md",
-    "Math/Limits & Continuity.md"
+    "Business/Game Development.md",
+    "Business/Game Monetization.md",
+    "Business/Gamer Profile.md"
   ]
 }

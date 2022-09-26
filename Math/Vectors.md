@@ -4,6 +4,7 @@ O módulo pode ser encontrado utilizando a lei dos cossenos ou por soma de matri
 <p align="center">
   <img width=80% src="https://imgur.com/6SIbah5.png">
 </p>
+
 $$
 \Huge
 \left[ \begin{matrix}
@@ -45,6 +46,7 @@ O módulo pode ser encontrado multiplicando o módulo do vetor pela altura sua e
 <p align="center">
   <img width=80% src="https://i.imgur.com/cAEsrxf.png">
 </p>
+
 $$
 \Huge
 \begin{vmatrix}

@@ -1,3 +1,5 @@
+# Pesquisa de perfil do jogador
+
 - A maioria dos jogadores do brasil são mulheres brancas e de classe média entre 20-24 anos;
 - A maior parte dos gamers moram com os pais;
 - A maioria dos jogadores entrevistados se considera um "gamer" (Homens como harcore e mulheres como casual);

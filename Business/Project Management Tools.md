@@ -1,4 +1,5 @@
 # Matriz SWOT
+
 > Ferramenta analítica que tem como objetivo medir o potencial de um projeto ou auxiliar na direção de um negócio já existente;
 
 <p align="center">
@@ -6,6 +7,7 @@
 </p>
 
 # Matriz de riscos
+
 > Ferramenta de gerenciamento de riscos que permite visualizar quais deles devem receber mais atenção;
 
 <p align="center">
@@ -29,7 +31,9 @@
 | Muito Alto | Os riscos possuem consequências irreversíveis ou com custos inviáveis        |
 
 # Blue Ocean
+
 > Análise que evidencia o diferencial de um projeto em relação à concorrência;
+
 <p align="center">
   <img width=60% src="https://i.imgur.com/2NPkwsL.jpg">
 </p>

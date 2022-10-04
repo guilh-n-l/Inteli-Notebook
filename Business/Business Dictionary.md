@@ -26,6 +26,8 @@
 <image width = 80% src = "https://i.imgur.com/3P2tdrZ.png">
 </p>
 
+> **Deck de investimento**: Apresentação de um produto ou negócio para possíveis investidores
+
 ## Estratégias de mercado
 
 > **Blue Ocean**: Ressaltar pontos que destacam o negócio em relação à concorrência;

@@ -22,7 +22,6 @@ $$
 If the data points of a population follow a normal distribution, the probability of them being between some intervals follows a certain pattern
 
 
-
 # Linear regression
 
 ## Finding regression line using the matricial approach
@@ -35,16 +34,16 @@ You can represent the regression line with by the $A$ matrix below (Coefficients
 
 $$
 A = \begin{bmatrix}
-    c \\
-    d \\ 
+    d \\
+    c \\ 
 \end{bmatrix}
 \,
 X = \begin{bmatrix}
-  x_1 \\
-  x_2 \\
-  x_3 \\
-  \text{...}\\
-  x_n
+  1 & x_1 \\
+  1 & x_2 \\
+  1 & x_3 \\
+  \text{...} & \text{...}\\
+  1 & x_n
 \end{bmatrix}
 \,
 Y = \begin{bmatrix}

@@ -21,7 +21,7 @@ $$
 
 If the data points of a population follow a normal distribution, the probability of them being between some intervals follows a certain pattern
 
-
+![](img/normal-empirical.svg)
 
 # Linear regression
 

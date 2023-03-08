@@ -1,14 +1,30 @@
 **Table of Contents**
 
+- [Indefinite integrals](#indefinite-integrals)
 - [Integration](#integration)
-    - [Definite Integrals](#definite-integrals)
-        - [Primitive method](#primitive-method)
-        - [Sum of Riemann method](#sum-of-riemann-method)
+  - [Definite integrals](#definite-integrals)
+    - [Primitive method](#primitive-method)
+    - [Sum of Riemann method](#sum-of-riemann-method)
 
+
+
+# Derivatives
+
+$$
+(f \cdot g)' = f'g + fg' 
+$$
+
+$$
+\left(\frac{f}{g}\right)' = \frac{f'g - fg'}{g^2}
+$$
+
+$$
+\frac{df}{dx} = \frac{df}{du} \cdot \frac{du}{dx}
+$$
 
 # Integration
 
-## Definite Integrals
+## Definite integrals
 
 ### Primitive method
 

@@ -25,7 +25,7 @@ $$
 
 If the data points of a population follow a normal distribution, the probability of them being between some intervals follows a certain pattern
 
-<img src='img/emp-normal-dist.svg' width=70%>
+<img src='img/emp-normal-dist.svg' style='display: block; width: 30%; margin: 0 auto'/>
 
 # Sampling distribution
 
@@ -34,13 +34,13 @@ Running statistics on samples can differ from statistics in the population, so t
 ## Sample elements
 
 $$
-S_i = \{a_1, a_2, ..., a_n\} \rightarrow \text{Set of $n$ samples from the population}
+S_i = \{a_1, a_2, ..., a_n\}: \text{Set of $n$ samples from the population}
 $$
 $$
-\bar{x_i} \rightarrow \text{Mean of the sample set}
+\bar{x_i}: \text{Mean of the sample set}
 $$
 $$
-\bar{X} \rightarrow \text{Random variable from the sample}
+\bar{X}: \text{Random variable from the sample}
 $$
 
 ## Central limit theorem
@@ -86,7 +86,10 @@ $$
 A = \left((X^T \cdot X)^{-1} \cdot X^T\right) \cdot Y
 $$
 
-**_Note:_**$\left((X^T \cdot X)^{-1} \cdot X^T\right)$ is called the **pseudo-inverse** of matrix $X$;
+**_Note:_** $\left((X^T \cdot X)^{-1} \cdot X^T\right)$ is called the **pseudo-inverse** of matrix $X$;
+
+**_Note:_** The $X$ matrix is the Vandermond matrix of the values of $x$;
+
 
 ## Check accuracy of the regression line
 
@@ -98,29 +101,49 @@ $$
 
 The lower the value of the $\text{RSS}$, the closer to the regression line is to represent the set of points;
 
-![](img/linear-reg-0.svg)
+<img src='img/linear-reg-0.svg' style='display: block; margin: 0 auto; width: 30%'/>
+
 > $RSS = 0$ (Perfect fit)
 
-![](img/linear-reg-1.svg)
+<img src='img/linear-reg-1.svg' style='display: block; margin: 0 auto; width: 30%'/>
+
 > $RSS > 0$ (Best possible fit)
+
+
 
 # Testing hypothesis
 
-Hypothesis always come in a tuple of two elements $\{H_0, H_1\}$. $H_0$ affirm an equality about a variable or a defined interval of where it stands. $H_1$, on the other hand, refutes $H_0$ with an inequality;
+Hypothesis always come in a tuple of two elements $\{H_0, H_1\}$. $H_0$ affirms an equality about a variable or a defined interval of where it stands. $H_1$, on the other hand, refutes $H_0$ with an inequality;
 
 $$
-z = \frac{\bar{x}-\mu}{\frac{s}{\sqrt{n}}}
+z = \frac{\bar{x}-\mu_0}{\frac{s}{\sqrt{n}}}
 $$
 
-**_Ex.:_** A transport company is calculating the mean time that the traffic lights stay red in the region, they collected 40 samples ($n$) in which the mean was $10s$ ($\bar{x}$) with a standard deviation of $1.5s$, what can be affirmed about the hypothesis below with a significance level of $5\%$ and of $2\%$?
+$$\small
+\bar{x}: \text{Mean of the sample}
 $$
-H_0: \mu = 10.5s
+$$\small
+s: \text{Standard deviation of the sample}
 $$
+$$\small
+z: \text{Z-score of the hypothesis}
 $$
-H_1: \mu \neq 10.5s
+$$\small
+n: \text{Number of sample elements}
+$$
+$$\small
+\mu_0: \text{Mean of the hypothesis}
 $$
 
-To solve the example above, one needs to determine the critic zone (The outside of the trust zone) in which the mean needs to be to confirm $H_1$;
+> **_Ex.:_** A transport company is calculating the mean time that the traffic lights stay red in the region, they collected $40$ samples $(n)$ in which the mean was $10s$ $(\bar{x})$ with a standard deviation of $1.5s$, what can be affirmed about the hypothesis below with a significance level of $5\%$ and of $1\%$?
+$$
+H_0: \mu_0 = 10.5s
+$$
+$$
+H_1: \mu_0 \neq 10.5s
+$$
+
+> To solve the example above, one needs to determine the critic zone (The outside of the trust zone) in which the mean needs to be to confirm $H_1$;
 
 $$
 z = \frac{10-10.5}{\frac{1.5}{\sqrt{40}}} \approx -2.1

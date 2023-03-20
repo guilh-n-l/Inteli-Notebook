@@ -37,11 +37,18 @@ The span of a set of vectors $\left(\text{Span}\left(\vec{v_1}, \vec{v_2}, \vec{
 
 ## Linear independence
 
-When a vector in a set can't be represented as a combination of the other vectors in the set:
+When a set of vectors can't represent all of it's vectors using linear combination of all the other vectors in the set, it is said that this set is linearly independent;
 
 $$
-\text{Span}\left(\vec{v_1},\vec{v_2},\vec{v_3}, ...\right) \forall c_i \in \mathbb{R};\, c_2 \cdot v_2 + c_3 \cdot v_3 + ... \ne \vec{v_1} \implies \vec{v_1}\text{ is linearly independent}
+c_1 \cdot \vec{v_1} + c_2 \cdot \vec{v_2} + ... = \vec{0}
+\implies
+\begin{cases}
+  \text{Linearly independent};\,\nexists\, c_i \ne 0\\
+  \text{Linearly dependent};\,\exists\, c_i \ne 0\\
+\end{cases}
 $$
+
+
 
 ## Vector transformations
 

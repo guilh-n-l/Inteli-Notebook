@@ -5,30 +5,31 @@
   - [Linear combination](#linear-combination)
     - [Span](#span)
   - [Linear independence](#linear-independence)
+  - [Subspace of a vector set](#subspace-of-a-vector-set)
   - [Vector transformations](#vector-transformations)
-    - [Introduction to transformations: Multi-variable functions](#introduction-to-transformations-multi-variable-functions)
 
 # Vectors 
 
 ## Parametric representation of lines
 
-A line in an $n$ dimensional space can be represented using a vector equation, such as the one below:
+A line $(\mathbf{L})$ in an $n$ dimensional space can be represented using a vector equation, such as the one below:
 
 $$
-S = \{k \cdot \vec{v};\, k \in \mathbb{R}\}
+\mathbf{L} = \{k \cdot \vec{v};\, k \in \mathbb{R}\}
 $$
 
 ## Linear combination
 
-Given a set of vectors and a set of scalars, a linear combination is a combination of those two sets
+Given a set of vectors $(\mathbf{V})$ and a set of scalars $(\mathbf{C})$, a linear combination can be represented as below:
 
 $$
-V = \{\vec{v_1}, \vec{v_2}, \vec{v_3}, ...;\, \forall \vec{v_i} \in \mathbb{R^n}\}
-\,\And\,
-C = \{c_1, c_2, c_3, ...;\, \forall c_i \in \mathbb{R}\}
+\mathbf{V} = \left\{\vec{v_1}, \vec{v_2}, \vec{v_3}, ... \right\}
 $$
 $$
-c_1 \cdot \vec{v_1} + c_2 \cdot \vec{v_2} + ... \rightarrow \text{ one linear combination of $C$ and $V$}
+\mathbf{C} = \left\{c_1, c_2, c_3, ... \right\}
+$$
+$$
+\left(c_1 \cdot \vec{v_1} + c_2 \cdot \vec{v_2} + c_3 \cdot \vec{v_3} +...\right) \text{ Is a linear combination of $\mathbf{C}\And\mathbf{V}$}
 $$
 
 ### Span
@@ -37,27 +38,36 @@ The span of a set of vectors $\left(\text{Span}\left(\vec{v_1}, \vec{v_2}, \vec{
 
 ## Linear independence
 
-When a set of vectors can't represent all of it's vectors using linear combination of all the other vectors in the set, it is said that this set is linearly independent;
+A set of vectors is said to be linearly independent if at least one vector in that set can't be represented as a linear combination of other vectors in that set;
 
 $$
-c_1 \cdot \vec{v_1} + c_2 \cdot \vec{v_2} + ... = \vec{0}
-\implies
-\begin{cases}
-  \text{Linearly independent};\,\nexists\, c_i \ne 0\\
-  \text{Linearly dependent};\,\exists\, c_i \ne 0\\
-\end{cases}
+\text{only if there is no solution for $(c_1 \cdot \vec{v_1} + c_2 \cdot \vec{v_2} + c_3 \cdot \vec{v_3} +... = 0)$ other than when $\forall c_i = 0$, that the set of vectors is linearly independent}
 $$
 
+## Subspace of a vector set
 
+A subset $\mathbf{U}$ is said to be a subspace of a superset $\mathbf{V}$ when $\mathbf{U}$ follows all the condtions below:
+
+$$
+\begin{equation}
+\vec{0} \in U
+\end{equation}
+$$
+$$
+\begin{equation}
+\text{$\mathbf{U}$ contains all the linear combinations of vectors in itself (Is closed in vector addition)}
+\end{equation}  
+$$
+$$
+\begin{equation}
+\text{$\mathbf{U}$ contains all the scalar products of vectors in itself (Is closed in scalar multiplication)}
+\end{equation}  
+$$
 
 ## Vector transformations
 
-### Introduction to transformations: Multi-variable functions 
+Vector transformations are the association between vectors from a $\mathbb{D}$ to a vector of a $\mathbb{CD}$ (In other words, functions operating on vectors)
 
 $$
-f(x, y, ...) = z
-$$
-
-$$
-\mathbb{D} = \mathbb{R}^n \,\And\, \mathbb{CD} = \mathbb{R}
+T: \mathbb{R}^n \to \mathbb{R}^m;\, T(\vec{v_1}) = \vec{v_2}
 $$

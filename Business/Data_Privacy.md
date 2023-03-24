@@ -5,7 +5,6 @@
   - [Elementos no tratamento de dados](#elementos-no-tratamento-de-dados)
   - [Como evitar receber processos](#como-evitar-receber-processos)
 
-
 # LGPD
 
 ## Conceitos básicos

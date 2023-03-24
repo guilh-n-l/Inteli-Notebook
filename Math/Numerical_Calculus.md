@@ -15,7 +15,7 @@ $$
 \text{Intermediate value theorem:}
 $$
 $$
-f(a) > 0 \, \And \, f(b) < 0 \implies \exist \, x_k \,;\, a<x_k<b \, \And \, f(x) \text{ is continuous}
+f(a) > 0 \, \And \, f(b) < 0 \implies \exists \, x_k \,;\, a<x_k<b \, \And \, f(x) \text{ is continuous}
 $$
 
 ## Using the Newton method
@@ -39,14 +39,14 @@ $$
 }
 $$
 $$
-\begin{array}{cc|cccc}
-  n & \text{Factor} &\,&\,& \frac{w_i}{\text{Factor}}&\,&\,\\
+\begin{array}{cc|ccccc}
+  n & \text{Factor} &&& \frac{w_i}{\text{Factor}}&&\\
   \\
-  1 & \frac{1}{2} & 1 & 1 &\,&\,&\,\\
+  1 & \frac{1}{2} & 1 & 1 &&&\\
   \\
-  2 & \frac{1}{6} & 1 & 4 & 1 &\,&\,\\
+  2 & \frac{1}{6} & 1 & 4 & 1 &&\\
   \\
-  3 & \frac{1}{8} & 1 & 3 & 3 & 1 &\,\\
+  3 & \frac{1}{8} & 1 & 3 & 3 & 1 &\\
   \\
   4 & \frac{1}{90} & 7 & 32 & 12 & 32 & 7\\
 \end{array}

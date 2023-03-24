@@ -1,3 +1,8 @@
+---
+header-includes:
+  - \usepackage{graphicx}
+---
+
 **Table of Contents**
 
 - [Normal distribution](#normal-distribution)
@@ -25,7 +30,9 @@ $$
 
 If the data points of a population follow a normal distribution, the probability of them being between some intervals follows a certain pattern
 
-<img src='img/emp-normal-dist.svg' style='display: block; width: 30%; margin: 0 auto'/>
+$$
+\includegraphics[width=0.5\textwidth]{img/emp-normal-dist.png}
+$$
 
 # Sampling distribution
 
@@ -97,19 +104,22 @@ To check how well the regression line calculated represents the set of points, y
 
 $$
 \text{RSS} = \sum_{i=1}^{n}(y_i - \hat{y}_i)^2
-$$
+$$  
 
 The lower the value of the $\text{RSS}$, the closer to the regression line is to represent the set of points;
 
-<img src='img/linear-reg-0.svg' style='display: block; margin: 0 auto; width: 30%'/>
-
-> $RSS = 0$ (Perfect fit)
-
-<img src='img/linear-reg-1.svg' style='display: block; margin: 0 auto; width: 30%'/>
-
-> $RSS > 0$ (Best possible fit)
-
-
+$$
+\includegraphics[width=0.5\textwidth]{img/linear-reg-0.png}
+$$
+$$
+\text{RSS} = 0 \implies \text{ Perfect fit}
+$$
+$$
+\includegraphics[width=0.5\textwidth]{img/linear-reg-1.png}
+$$
+$$
+\text{RSS} > 0 \implies \text{ Best fit}
+$$
 
 # Testing hypothesis
 

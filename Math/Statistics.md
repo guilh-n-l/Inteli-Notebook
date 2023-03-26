@@ -145,7 +145,7 @@ $$\small
 \mu_0: \text{Mean of the hypothesis}
 $$
 
-> **_Ex.:_** A transport company is calculating the mean time that the traffic lights stay red in the region, they collected $40$ samples $(n)$ in which the mean was $10s$ $(\bar{x})$ with a standard deviation of $1.5s$, what can be affirmed about the hypothesis below with a significance level of $5\%$ and of $1\%$?
+> **Ex.:** A transport company is calculating the mean time that the traffic lights stay red in the region, they collected $40$ samples $(n)$ in which the mean was $10s$ $(\bar{x})$ with a standard deviation of $1.5s$, what can be affirmed about the hypothesis below with a significance level of $5\%$ and of $1\%$?
 $$
 H_0: \mu_0 = 10.5s
 $$

@@ -12,7 +12,6 @@
   - [Eigenvalues and eigenvectors](#eigenvalues-and-eigenvectors)
     - [Determining the matrix of eigenvalues of a matrix](#determining-the-matrix-of-eigenvalues-of-a-matrix)
       - [Using determinants](#using-determinants)
-- [\\Lambda](#lambda)
       - [Using the matrix of eigenvectors](#using-the-matrix-of-eigenvectors)
     - [Determining the eigenvectors using the eigenspace](#determining-the-eigenvectors-using-the-eigenspace)
     - [Determining the transformation matrix using eigenvalues and eigenvectors](#determining-the-transformation-matrix-using-eigenvalues-and-eigenvectors)

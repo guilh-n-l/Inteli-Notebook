@@ -37,4 +37,11 @@ Corporate governance is how a company is ran, a good governance can be determine
 
 ## Data governance
 
-Data governance is how data is managed;
+Data governance is how data is managed, a good data governance can be determine how well a organization manage the following terms:
+
+- Security;
+- Accuracy;
+- Availability;
+- Usability;
+
+**_Note:_** Data policies (such as terms of service and privacy policies), can ensure that the data is being treated properly and that the data's subject is aware of how it's data is being treated;

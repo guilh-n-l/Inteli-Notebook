@@ -6,7 +6,7 @@
 
 To solve partial derivatives, hold the other variables (The ones other variables than the one you are deriving from) constant, then solve the derivative as a total one;
 
-Ex.:
+**Ex.:**
 
 $$
 \frac{\partial}{\partial x} 2x^2 + xy + z

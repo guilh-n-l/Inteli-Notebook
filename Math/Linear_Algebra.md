@@ -12,7 +12,6 @@
   - [Eigenvalues and eigenvectors](#eigenvalues-and-eigenvectors)
     - [Determining the matrix of eigenvalues of a matrix](#determining-the-matrix-of-eigenvalues-of-a-matrix)
       - [Using determinants](#using-determinants)
-- [\\Lambda](#lambda)
       - [Using the matrix of eigenvectors](#using-the-matrix-of-eigenvectors)
     - [Determining the eigenvectors using the eigenspace](#determining-the-eigenvectors-using-the-eigenspace)
     - [Determining the transformation matrix using eigenvalues and eigenvectors](#determining-the-transformation-matrix-using-eigenvalues-and-eigenvectors)
@@ -121,8 +120,7 @@ $$
 \det(A - \lambda \cdot I) = 0
 $$
 $$
-\Lambda
-=
+\Lambda=
 \begin{bmatrix}
     \lambda_1 & 0 & 0 & ...\\
     0 & \lambda_2 & 0 & ...\\
@@ -146,7 +144,7 @@ $$
 Determining the eigenspaces for all $\lambda$ values, you will find all the eigenvectors for the matrix $A$. You can create a matrix of eigenvectors as noted below:
 
 $$
-S=\left[B_{\lambda_1}|B_{\lambda_2}|B_{\lambda_3}|...\right]
+S=\left[E_{\lambda_1}|E_{\lambda_2}|E_{\lambda_3}|...\right]
 $$
 
 ### Determining the transformation matrix using eigenvalues and eigenvectors

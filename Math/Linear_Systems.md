@@ -1,4 +1,4 @@
-**Table of Contents**
+**Table of contents**
 
 - [Types of linear systems](#types-of-linear-systems)
 - [Representing linear systems with matrices](#representing-linear-systems-with-matrices)

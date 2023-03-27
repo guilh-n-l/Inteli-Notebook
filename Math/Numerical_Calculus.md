@@ -52,7 +52,7 @@ $$
 \end{array}
 $$
 
-Ex.:
+**Ex.:**
 
 $$
 \text{Solve the definite integral below using the Newton-Cotes method of order 4}
@@ -65,5 +65,8 @@ $$
 S_i = \left\{\frac{4 \cdot 1}{4}, \frac{4 \cdot 2}{4}, \frac{4 \cdot 3}{4}, \frac{4 \cdot 4}{4}, \frac{4 \cdot 5}{4}\right\} = \left\{1, 2, 3, 4, 5\right\}
 $$
 $$
-\int_1^5 \sqrt[3]{x} \approx (5-1) \sum_{i=0}^{4} \sqrt[3]{S_i} \cdot w_i = 4 \cdot \left(\left(\sqrt[3]{1}\cdot \frac{7}{90}\right) + \left(\sqrt[3]{2}\cdot \frac{32}{90}\right) + \left(\sqrt[3]{3}\cdot \frac{12}{90}\right) + \left(\sqrt[3]{4}\cdot \frac{32}{90}\right) + \left(\sqrt[3]{5}\cdot \frac{7}{90}\right) \right) \approx 5.6618 
+\int_1^5 \sqrt[3]{x} \approx (5-1) \sum_{i=0}^{4} \sqrt[3]{S_i} \cdot w_i = 4 \cdot \left(\left(\sqrt[3]{1}\cdot \frac{7}{90}\right) + \left(\sqrt[3]{2}\cdot \frac{32}{90}\right) + \left(\sqrt[3]{3}\cdot \frac{12}{90}\right) + \left(\sqrt[3]{4}\cdot \frac{32}{90}\right) + \left(\sqrt[3]{5}\cdot \frac{7}{90}\right) \right)
+$$
+$$
+\int_1^5 \sqrt[3]{x}\approx 5.6618 
 $$
